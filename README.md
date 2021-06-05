@@ -22,6 +22,5 @@ You are required to model the demand for shared bikes with the available indepen
 
 ### Uploaded Documents:
 1. Ipython Notebook
-2. A folder with all required objects for Model Deployment
-3. Subjective Question Answer
-4. Input Data sheet & Data Dictionary
+2. Subjective Question Answer
+3. Input Data sheet & Data Dictionary
